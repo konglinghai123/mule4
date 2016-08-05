@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Aug 04 19:07:34 CDT 2016
+foo-connector-1.0.0-SNAPSHOT-plugin.zip>=
+foo-connector-1.0.0-SNAPSHOT-studio-plugin.zip>=
+foo-connector-1.0.0-SNAPSHOT.pom>=
+foo-connector-1.0.0-SNAPSHOT-sources.jar>=
+foo-connector-1.0.0-SNAPSHOT.jar>=

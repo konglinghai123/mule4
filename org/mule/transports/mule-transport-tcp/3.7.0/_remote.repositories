@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Aug 03 21:53:11 CDT 2016
+mule-transport-tcp-3.7.0.pom>mulesoft-plugin-releases=
+mule-transport-tcp-3.7.0.jar>=
+mule-transport-tcp-3.7.0.jar>mulesoft-releases=
+mule-transport-tcp-3.7.0.pom>mulesoft-releases=
+mule-transport-tcp-3.7.0.jar>mulesoft-plugin-releases=

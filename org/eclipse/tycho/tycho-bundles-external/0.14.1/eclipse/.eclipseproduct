@@ -1,0 +1,5 @@
+#Eclipse Product File
+#Fri Feb 24 07:49:35 EST 2012
+version=0.14.1
+name=org.eclipse.tycho.p2
+id=tycho-bundles-external
