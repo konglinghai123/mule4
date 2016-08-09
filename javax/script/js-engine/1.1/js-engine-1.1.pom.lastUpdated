@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Aug 08 20:53:35 CDT 2016
+http\://repo1.maven.org/maven2/.error=
+http\://repository.mulesoft.org/releases/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1470707614813
+https\://repo.maven.apache.org/maven2/.lastUpdated=1470707615013
+https\://repository.mulesoft.org/nexus/content/repositories/public/.lastUpdated=1470707615413
+http\://repository.mulesoft.org/releases/.lastUpdated=1470707614951
+https\://repo.maven.apache.org/maven2/.error=
